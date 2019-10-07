@@ -6,7 +6,7 @@
   "dependencies": {
     "async": "2.1.5",
     "debug": "2.6.9",
-    "fh-db": "3.3.2",
+    "fh-db": "https://github.com/weareslate/fh-db.git#debugging",
     "fh-mbaas-client": "1.1.4",
     "fh-mbaas-express": "https://github.com/weareslate/fh-mbaas-express.git",
     "fh-security": "0.4.0",
