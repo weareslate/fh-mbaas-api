@@ -6,9 +6,9 @@
   "dependencies": {
     "async": "2.1.5",
     "debug": "2.6.9",
-    "fh-db": "https://github.com/weareslate/fh-db.git#debugging",
+    "fh-db": "https://github.com/weareslate/fh-db.git#slate-migration",
     "fh-mbaas-client": "1.1.4",
-    "fh-mbaas-express": "https://github.com/weareslate/fh-mbaas-express.git",
+    "fh-mbaas-express": "https://github.com/weareslate/fh-mbaas-express.git#slate-migration",
     "fh-security": "0.4.0",
     "fh-statsc": "1.0.0",
     "fh-sync": "2.0.1",
