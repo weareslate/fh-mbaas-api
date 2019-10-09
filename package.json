@@ -6,7 +6,6 @@
   "dependencies": {
     "async": "2.1.5",
     "debug": "2.6.9",
-    "fh-db": "https://github.com/rhappdev/alt-fh-db",
     "fh-mbaas-client": "1.1.4",
     "fh-mbaas-express": "https://github.com/weareslate/fh-mbaas-express.git#slate-migration",
     "fh-security": "0.4.0",
